@@ -33,3 +33,5 @@ document.getElementsByTagName('tbody')[0].innerHTML = innerHtmlTableBody;
 console.log('Average age of person:' + averageAge);
 
 console.log('Hello, World');
+
+//some comment
